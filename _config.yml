@@ -4,7 +4,7 @@ SEOTitle: 我的的博客 | BY Barron
 header-img: img/post-bg-desk.jpg
 email: zhoucaixin_tel@163.com
 description: "no end for learning"
-keyword: "BY, BY Barron, barron的博客, zhoucx, 周才新, iOS, Apple, iPhone"
+keyword: "BY, BY Barron, barron的博客, zhoucx, 周才新"
 url: "http://shy-barron.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/shy-barron/shy-barron.github.io.git" # you code repository
